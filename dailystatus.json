@@ -1,0 +1,20 @@
+[
+  {
+    "uid": "DAILY_1",
+    "updateDate": "2017-05-01T00:00:00.0Z",
+    "titleText": "LATE",
+    "mainText": "Mark - in at 11:30. Marcus - 9:30",
+   },
+  {
+    "uid": "DAILY_2",
+    "updateDate": "2017-05-01T00:00:00.0Z",
+    "titleText": "Working From Home",
+    "mainText": "Marta from 2 - 5:30 pm.",
+  },
+  {
+    "uid": "DAILY_3",
+    "updateDate": "2017-05-01T00:00:00.0Z",
+    "titleText": "Holidays this week",
+    "mainText": "Claire, Thom & Dani - Holiday Friday. Vibha - returning 2nd May. Sara - returning 2nd May",
+  }
+]
